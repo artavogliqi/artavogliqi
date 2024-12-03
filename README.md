@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Arta
+### 💻 Computer Science & Engineering Student | Web Developer | AI Novice
 
-<!--
-**artavogliqi/artavogliqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am passionate about building web applications using AI.
 
-Here are some ideas to get you started:
+### 🚀 Skills & Tools
+- **Frontend:** HTML, CSS, JavaScript, React.js
+- **Backend:** PHP, Laravel
+- **Database:** MySQL
+- **Tools:** Git, Github & AI Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🌟 Featured Projects
+- 
+
+### 📫 Get in Touch
+- [LinkedIn](https://linkedin.com/in/artavogliqi)
+- [Email](mailto:artaavogliqi@gmail.com)
